@@ -108,6 +108,8 @@ solara run app.py                 # dashboard on http://localhost:8765
 - Budapest districts
 - Track coverage over time with older OSM snapshots, to see whether mapping is improving
 
+**Tools:** Python · pandas · scikit-learn · shapely · matplotlib · Solara · pytest · GitHub Actions · Claude Code
+
 ## License
 
 Code: MIT. Data: see above.
